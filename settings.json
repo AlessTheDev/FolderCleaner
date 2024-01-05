@@ -1,0 +1,20 @@
+{
+  "group_dirs_prefix": "cl_",
+  "file_actions": [
+    {
+      "start": null,
+      "end": ".png",
+      "action": "group"
+    },
+    {
+      "start": null,
+      "end": ".jpg",
+      "action": "group"
+    },
+    {
+      "start": null,
+      "end": ".jpeg",
+      "action": "group"
+    }
+  ]
+}
